@@ -1,3 +1,5 @@
+package jdbcTest;
+
 import java.sql.*;
 
 public class JDBCTest {
