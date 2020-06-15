@@ -11,9 +11,9 @@ public class JDBCTest {
         ResultSet resultSet = null;
 
         // 数据连接的配置
-        String url = "jdbc:mysql://127.0.0.1:3306/test";
-        String userName = "root";
-        String passWord = "QFIZsy_gNEcd8wAeHV8t9vXgB1AN_ruH";
+        String url = "jdbc:mysql://127.0.0.1:5730/test";
+        String userName = "msandbox";
+        String passWord = "msandbox";
 
 
         try {
